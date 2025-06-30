@@ -18,7 +18,7 @@ This website was built using WordPress and serves as:
 - A platform to connect with potential clients and partners
 
 You can visit it here:  
-🔗 [https://creativebrightstechnology.github.io](https://creativebrightstechnology.github.io)
+🔗 [https://creativebrightstechnology.github.io](https://github.com/siammahfuz/creativebrightstechnology.github.io)
 
 ---
 
@@ -63,4 +63,4 @@ The website is hosted on **GitHub Pages** at:
 **Md Mahfuzur Rahman Siam**  
 - Role: Author & Maintainer  
 - 📧 Email: ksiam3409@gmail.com
-- 🌐 GitHub:github.com/creativebrightstechnology
+- 🌐 GitHub:[github.com/creativebrightstechnology](https://github.com/siammahfuz/creativebrightstechnology.github.io)
